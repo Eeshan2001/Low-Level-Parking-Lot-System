@@ -11,7 +11,8 @@ LowLevel_ParkingSystem.py script defines the following functions -
 7. `check_slot_number_with_carno car_no` - this will display slot alloted to car_number
 
 LowLevel_ParkingSystem.py can be run through shell or through file containing test cases. 
+Vehicle.py is a separate class where we can define the type of vehicles that can be parked. it only contains class `Car`
 An example file `run_test_case.txt` has been provided in repo.
 To run with a file execute `python LowLevel_ParkingSystem.py -f run_test_case.txt`   
 
-Vehicle.py is a separate class where we can define the type of vehicles that can be parked. it only contains class `Car`
+![Screenshot (461)](https://user-images.githubusercontent.com/80475016/156886639-a1a6ab12-f005-4282-8d65-fea93c7acec3.png)
